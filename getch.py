@@ -2,6 +2,8 @@
 # "getch()-like unbuffered character reading from stdin
 #  on both Windows and Unix (Python recipe)"
 
+# Shameless use of cool code. :)
+
 class _Getch:
     """Gets a single character from standard input.  Does not echo to the
 screen."""
